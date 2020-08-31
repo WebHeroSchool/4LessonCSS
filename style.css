@@ -1,0 +1,25 @@
+.background{
+	background-color: #23C0F5;
+}
+.title{
+	text-align: center;
+  font-size: 45px;
+  color: #fff;
+}
+.citata{
+	font-family: "Lucida Console", Courier, monospace;
+  text-align: right;
+  text-shadow: 2px 2px 5px #241B5E;
+  color: #fff;
+}
+.image{
+	border-radius: 8px;
+  width: 350px;
+  height: 350px;
+  float: right;
+  padding: 10px;
+}
+.text{
+	color: #fff;
+	font-family: "Lucida Console", Courier, monospace;
+}
