@@ -1,7 +1,9 @@
 .background{
 	background-color: #23C0F5;
+  font-family: 'Exo 2', sans-serif;
 }
 .title{
+  font-family: 'Comfortaa', cursive;
 	text-align: center;
   font-size: 45px;
   color: #fff;
